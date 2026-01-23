@@ -188,10 +188,4 @@ The Streamlit dashboard presents:
 The dashboard is intentionally scoped to the assignment requirements.
 
 ### Live Dashboard Link
-STREAMLIT CLOUD URL HERE
-
----
-
-## Repository Link
-
-GITHUB REPOSITORY LINK HERE
+https://teiko-cell-dashboard-rithvik.streamlit.app/
