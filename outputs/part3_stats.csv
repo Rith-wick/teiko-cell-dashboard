@@ -1,0 +1,6 @@
+population,n_responders,n_nonresponders,p_value
+cd4_t_cell,993,975,0.01334
+b_cell,993,975,0.055672
+nk_cell,993,975,0.12106
+monocyte,993,975,0.163126
+cd8_t_cell,993,975,0.639058
