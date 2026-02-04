@@ -1,5 +1,8 @@
 # Teiko Technical – Immune Cell Population Analysis
 
+### Live Dashboard Link
+https://teiko-cell-dashboard-rithvik.streamlit.app/
+
 This project analyzes immune cell population data from a clinical trial to help understand how a drug candidate (miraclib) affects immune cell distributions and whether these distributions are associated with treatment response.
 
 The solution:
@@ -184,8 +187,3 @@ The Streamlit dashboard presents:
 - Part 2 summary table
 - Part 3 boxplots and statistical results
 - Part 4 baseline subset tables and required aggregate
-
-The dashboard is intentionally scoped to the assignment requirements.
-
-### Live Dashboard Link
-https://teiko-cell-dashboard-rithvik.streamlit.app/
